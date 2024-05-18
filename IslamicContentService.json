@@ -1,0 +1,30 @@
+{
+  "articles": [
+    {
+      "title": "The Importance of Salah",
+      "content": "Salah is the second pillar of Islam..."
+    },
+    {
+      "title": "The Benefits of Fasting",
+      "content": "Fasting during Ramadan teaches self-discipline..."
+    }
+  ],
+  "fatwas": [
+    {
+      "question": "Is it permissible to pray at home?",
+      "answer": "It is permissible to pray at home, but it is recommended to pray in congregation..."
+    }
+  ],
+  "duas": [
+    {
+      "title": "Dua for Forgiveness",
+      "text": "Astaghfirullah"
+    }
+  ],
+  "quotes": [
+    {
+      "author": "Prophet Muhammad (SAW)",
+      "text": "The best of you are those who are best to their families."
+    }
+  ]
+}
